@@ -1,4 +1,8 @@
-to start server,
-npm start.
+Blaze group API
 
-import.ts has setup to upload data into database.
+Back-End API that follows the REST API framework,
+
+To start server:
+npm install
+
+npm start 
