@@ -1,0 +1,4 @@
+to start server,
+npm start.
+
+import.ts has setup to upload data into database.

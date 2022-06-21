@@ -1,0 +1,26 @@
+{
+  "id": "integer",
+  "question_id": "integer",
+  "body": "string",
+  "date_written": "long integer",
+  "answerer_name": "string",
+  "answerer_email": "string",
+  "reported": "boolean",
+  "helpful": "integer",
+  "answers": {
+    "question_id": {
+      "id": "integer",
+      "question_id": "integer",
+      "body": "string",
+      "date_written": "long integer",
+      "answerer_name": "string",
+      "answerer_email": "string",
+      "reported": "boolean",
+      "helpful": "integer",
+      "photos": [{
+        "id": "integer",
+        "url": "string"
+      }]
+    }
+  }
+}
